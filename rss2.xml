@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WayTo</title>
+    <link>https://wayto.dev/</link>
+    
+    <image>
+      <url>https://wayto.dev/icon.png</url>
+      <title>WayTo</title>
+      <link>https://wayto.dev/</link>
+    </image>
+    
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Way to Deployment</description>
+    <pubDate>Wed, 26 Feb 2020 12:02:36 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://wayto.dev/hello-world/</link>
+      <guid>https://wayto.dev/hello-world/</guid>
+      <pubDate>Wed, 26 Feb 2020 11:47:00 GMT</pubDate>
+      
+      <description>this is my first post</description>
+      
+      
+      
+      
+      <category domain="https://wayto.dev/categories/hello/">hello</category>
+      
+      <category domain="https://wayto.dev/categories/hello/world/">world</category>
+      
+      
+      <category domain="https://wayto.dev/tags/hello/">hello</category>
+      
+      
+      <comments>https://wayto.dev/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
